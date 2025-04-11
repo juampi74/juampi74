@@ -14,3 +14,7 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=juampi74&theme=react&hide_border=false">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=juampi74&show_icons=true&theme=dark&locale=en&layout=compact">
 </div>
+
+<h2>Commits</h2>
+
+![Snake animation](https://github.com/juampi74/juampi74/raw/output/github-contribution-grid-snake.svg)
