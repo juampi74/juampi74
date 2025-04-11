@@ -17,4 +17,4 @@
 
 <h2>Commits</h2>
 
-![GitHub Snake](https://raw.githubusercontent.com/juampi74/juampi74/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://github.com/juampi74/juampi74/blob/output/github-snake-dark.svg)
