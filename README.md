@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <b>Juan Pablo Jaca</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=🎓+University+Information+Systems+Analyst+and+Developer+(Graduate);Information+Systems+Engineering+Student;Full+Stack+Developer;Always+learning+new+technologies&center=true&width=1000&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=70&lines=🎓+University+Information+Systems+Analyst+and+Developer+(Graduate);Information+Systems+Engineering+Student;Full+Stack+Developer;Always+learning+new+technologies&center=true&width=1000&height=45" />
 </p>
 
 <p align="center">
