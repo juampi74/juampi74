@@ -37,7 +37,7 @@
   <summary><b>🧑‍💻 Programming Languages</b></summary>
   <br>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,java,c,cs,php,matlab&perline=8"/>
+    <img src="https://skillicons.dev/icons?i=js,ts,py,java,c,cs,php,matlab&perline=9"/>
     <img src="https://miro.medium.com/v2/resize:fit:600/1*5IWd4GcFZ9RS0CqsvZsMlA.png" height="46px"/>
   </p>
 </details>
