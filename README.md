@@ -159,5 +159,5 @@
 <hr>
 
 <p align="center">
-  <i>Thank you for visiting my profile! Feel free to connect with me or check out my projects.</i>
+  <i>Thank you for visiting my profile! Feel free to connect with me or check out my projects</i>
 </p>
