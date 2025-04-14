@@ -24,7 +24,7 @@
 
 <h3>🧪 Testing</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=cypress,jest&perline=8" />
+  <img src="https://skillicons.dev/icons?i=cypress,jest&perline=2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karma/karma-original.svg" height="48px" />
 </p>
 
