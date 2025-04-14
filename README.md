@@ -121,7 +121,6 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juampi74&theme=react&hide_border=false&include_all_commits=true&count_private=true" height="170em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juampi74&show_icons=true&theme=react&locale=en&layout=compact&hide_border=false" height="170em"/>
 </div>
 
