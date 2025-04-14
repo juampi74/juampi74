@@ -33,6 +33,8 @@
   </tr>
 </table>
 
+<br>
+
 <h2 align="center">🛠️ Featured Projects</h2>
 
 <p align="center">
@@ -46,6 +48,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gdcaciorgna&repo=hotelmanagement&theme=react"/>
   </a>
 </p>
+
+<br>
 
 <h2 align="center">💻 Tech Stack</h2>
 
@@ -118,6 +122,8 @@
   </p>
 </details>
 
+<br>
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
@@ -130,11 +136,15 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juampi74&theme=react" height="170em"/>
 </div>
 
+<br>
+
 <h2 align="center">📝 Commits</h2>
 
 <p align="center">
   <img src="https://github.com/juampi74/juampi74/blob/output/github-snake-dark.svg"/>
 </p>
+
+<br>
 
 <h2 align="center">🔗 Connect With Me</h2>
 
