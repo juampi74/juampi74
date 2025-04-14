@@ -130,7 +130,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juampi74&theme=react" height="170em"/>
 </div>
 
-<h2 align="center">📝 Activity</h2>
+<h2 align="center">📝 Commits</h2>
 
 <p align="center">
   <img src="https://github.com/juampi74/juampi74/blob/output/github-snake-dark.svg"/>
