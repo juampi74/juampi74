@@ -12,22 +12,22 @@
 
 <table align="center">
   <tr>
-    <td>
+    <td align="center">
       <b>🎓 University Information Systems Analyst and Developer (Graduate)</b>
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <b>📚 Currently pursuing Information Systems Engineering</b>
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <b>💻 Full Stack Developer passionate about clean, efficient code</b>
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <b>🌱 Always learning new technologies and improving my skills</b>
     </td>
   </tr>
