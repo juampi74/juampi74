@@ -5,17 +5,33 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="250"/>
+  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="300"/>
 </div>
 
 <h2 align="center">🔍 About Me</h2>
 
-<ul style="list-style-type: none; padding-left: 10px;">
-  <li><b>🎓 University Information Systems Analyst and Developer (Graduate)</b></li>
-  <li><b>📚 Currently pursuing Information Systems Engineering</b></li>
-  <li><b>💻 Full Stack Developer passionate about clean, efficient code</b></li>
-  <li><b>🌱 Always learning new technologies and improving my skills</b></li>
-</ul>
+<table align="center">
+  <tr>
+    <td>
+      <b>🎓 University Information Systems Analyst and Developer (Graduate)</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>📚 Currently pursuing Information Systems Engineering</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>💻 Full Stack Developer passionate about clean, efficient code</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>🌱 Always learning new technologies and improving my skills</b>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">🛠️ Featured Projects</h2>
 
