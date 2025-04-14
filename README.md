@@ -10,7 +10,7 @@
 
 <h2 align="center">🔍 About Me</h2>
 
-<div align="center">
+<div align="left">
   <p>🎓 University Information Systems Analyst and Developer (Graduate)</p>
   <p>📚 Currently pursuing Information Systems Engineering</p>
   <p>💻 Full Stack Developer passionate about clean, efficient code</p>
