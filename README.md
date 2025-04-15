@@ -126,6 +126,7 @@
 </div>
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juampi74&theme=react&hide_border=false" height="170em"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juampi74&theme=react" height="170em"/>
 </div>
 
