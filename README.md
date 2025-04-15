@@ -140,16 +140,16 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/juan-pablo-jaca-5775a0337" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn"/>
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="https://github.com/juampi74" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/>
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="mailto:juampijaca@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" title="Email"/>
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="https://instagram.com/juampi_74" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" title="Instagram"/>
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="https://x.com/JuampiJaca" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="X / Twitter" title="X / Twitter"/>
   </a>
