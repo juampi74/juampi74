@@ -139,7 +139,7 @@
 <h2 align="center">🔗 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/juan-pablo-jaca-5775a0337" target="_blank">
+  <a href="https://www.linkedin.com/in/juan-pablo-jaca" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn"/>
   </a>
   <a href="https://github.com/juampi74" target="_blank">
