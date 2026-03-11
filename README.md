@@ -39,11 +39,14 @@
   <a href="https://github.com/DSW-3k02-GGJM/TP-3k02-Berli-Gilardoni-Godoy-Jaca-Marquez-App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DSW-3k02-GGJM&repo=TP-3k02-Berli-Gilardoni-Godoy-Jaca-Marquez-App&theme=react"/>
   </a>
-  <a href="https://github.com/juampi74/AcademiaABM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juampi74&repo=AcademiaABM&theme=react"/>
+  <a href="https://github.com/juampi74/TPI_JAVA_2025">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juampi74&repo=TPI_JAVA_2025&theme=react"/>
   </a>
   <a href="https://github.com/gdcaciorgna/hotelmanagement">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gdcaciorgna&repo=hotelmanagement&theme=react"/>
+  </a>
+  <a href="https://github.com/juampi74/AcademiaABM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juampi74&repo=AcademiaABM&theme=react"/>
   </a>
 </p>
 
