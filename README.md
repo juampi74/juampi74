@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <b>Juan Pablo Jaca</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&center=true&vCenter=true&width=800&lines=🎓+University+Information+Systems+Analyst+(Graduate);Information+Systems+Engineering+Student;Full+Stack+Developer;Always+learning+new+technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&center=true&vCenter=true&width=800&lines=👨‍💻+Fullstack+Software+Developer+at+Enesimal+S.A.;🎓+University+Information+Systems+Analyst+(Graduate);Information+Systems+Engineering+Student;Always+learning+new+technologies" />
 </p>
 
 <div align="center">
@@ -13,17 +13,17 @@
 <table align="center">
   <tr>
     <td align="center">
+      <b>👨‍💻 Fullstack Software Developer at Enesimal S.A.</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <b>🎓 University Information Systems Analyst (Graduate)</b>
     </td>
   </tr>
   <tr>
     <td align="center">
       <b>📚 Currently pursuing Information Systems Engineering</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>💻 Full Stack Developer passionate about clean, efficient code</b>
     </td>
   </tr>
   <tr>
