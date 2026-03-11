@@ -151,7 +151,7 @@
   <a href="mailto:juampijaca@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" title="Email"/>
   </a>
-  <a href="https://instagram.com/juampi_74" target="_blank">
+  <a href="https://instagram.com/jp_jaca" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" title="Instagram"/>
   </a>
   <a href="https://x.com/JuampiJaca" target="_blank">
